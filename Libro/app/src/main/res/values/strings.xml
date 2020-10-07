@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Libro</string>
+    <string name="ISBN">ISBN</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Autor">Autor</string>
+    <string name="AGREGAR">AGREGAR</string>
+</resources>
